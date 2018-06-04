@@ -10,7 +10,7 @@ namespace InfoView.Controllers
   public class ScheduleController : Controller
   {
     // 
-    // GET: /Groups/
+    // GET: /Schedule/
 
     public IActionResult Index()
     {
@@ -18,11 +18,9 @@ namespace InfoView.Controllers
     }
 
     // 
-    // GET: /Groups/Welcome/  
-    public IActionResult Rooms(string name, int numTimes = 1)
+    // GET: /Schedule/Welcome/  
+    public IActionResult Schedule()
     {
-      ViewData["Message"] = "Hello " + name;
-      ViewData["NumTimes"] = numTimes;
 
       return View();
     }

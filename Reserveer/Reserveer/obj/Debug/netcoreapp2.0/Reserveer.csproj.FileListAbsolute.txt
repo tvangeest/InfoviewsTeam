@@ -42,3 +42,14 @@ C:\Users\vboz\Source\Repos\InfoviewsTeam\Reserveer\Reserveer\obj\Debug\netcoreap
 C:\Users\vboz\Source\Repos\InfoviewsTeam\Reserveer\Reserveer\obj\Debug\netcoreapp2.0\Reserveer.AssemblyInfo.cs
 C:\Users\vboz\Source\Repos\InfoviewsTeam\Reserveer\Reserveer\obj\Debug\netcoreapp2.0\Reserveer.dll
 C:\Users\vboz\Source\Repos\InfoviewsTeam\Reserveer\Reserveer\obj\Debug\netcoreapp2.0\Reserveer.pdb
+D:\School\Year 3\ICT-LAB 01\Complete Project\Reserveer\Reserveer\bin\Debug\netcoreapp2.0\Reserveer.deps.json
+D:\School\Year 3\ICT-LAB 01\Complete Project\Reserveer\Reserveer\bin\Debug\netcoreapp2.0\Reserveer.runtimeconfig.json
+D:\School\Year 3\ICT-LAB 01\Complete Project\Reserveer\Reserveer\bin\Debug\netcoreapp2.0\Reserveer.runtimeconfig.dev.json
+D:\School\Year 3\ICT-LAB 01\Complete Project\Reserveer\Reserveer\bin\Debug\netcoreapp2.0\Reserveer.dll
+D:\School\Year 3\ICT-LAB 01\Complete Project\Reserveer\Reserveer\bin\Debug\netcoreapp2.0\Reserveer.pdb
+D:\School\Year 3\ICT-LAB 01\Complete Project\Reserveer\Reserveer\obj\Debug\netcoreapp2.0\Reserveer.csprojAssemblyReference.cache
+D:\School\Year 3\ICT-LAB 01\Complete Project\Reserveer\Reserveer\obj\Debug\netcoreapp2.0\Reserveer.csproj.CoreCompileInputs.cache
+D:\School\Year 3\ICT-LAB 01\Complete Project\Reserveer\Reserveer\obj\Debug\netcoreapp2.0\Reserveer.AssemblyInfoInputs.cache
+D:\School\Year 3\ICT-LAB 01\Complete Project\Reserveer\Reserveer\obj\Debug\netcoreapp2.0\Reserveer.AssemblyInfo.cs
+D:\School\Year 3\ICT-LAB 01\Complete Project\Reserveer\Reserveer\obj\Debug\netcoreapp2.0\Reserveer.dll
+D:\School\Year 3\ICT-LAB 01\Complete Project\Reserveer\Reserveer\obj\Debug\netcoreapp2.0\Reserveer.pdb
